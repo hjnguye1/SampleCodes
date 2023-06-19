@@ -20,3 +20,4 @@ Modeling Methods: Linear Regression, Lasso (L1 penalty) and Elastic Net Regressi
 •       Machine Learning Algorithms used: Support Vector Machine (SVM), Regularized SVC, Random Forest
 
 7. 	Value-at-Risk Modeling Using Crude Oil Time Series Data; Python codes in the Appendix
+8. 	Financial Modeling: Weighted Average Cost of Capital (WACC) and Discounted Cash Flow Forecast (DCF), case study of Pacific Gas and Electric, data dated May 2017
